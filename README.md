@@ -8,7 +8,7 @@ Tested on AKS but it should work for any kubernetes cluster given the right terr
 1) Clone the repository
 2) Feed the required input variables in the ./main.tf and ./modules/azure-k8-kafka/variables.tf
 3) From root directiory, run the below commands:
-    - **terraform initi**
+    - **terraform init**
 	- **terrafoorm plan**
 	- **terraform apply**
 
